@@ -1,0 +1,21 @@
+#formulario {
+	
+	font: bold 17px/49px Arial, Helvetica, sans-serif;
+	border: 2px solid;
+	border-radius: 25px;
+	float:left;
+	padding-right:20px;
+}
+
+#formulario ul {
+	list-style: none;
+}
+
+#formulario ul li a {
+	float: left;
+}
+
+.basicos {
+	text-align: left;
+	text-align: justify;
+}

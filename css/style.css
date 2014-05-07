@@ -1,0 +1,402 @@
+/* -----------------------------------------------------------------------------*/
+/* ------------------------------ESTATICO --------------------------------------*/
+/* -----------------------------------------------------------------------------*/
+body {
+    background: url(../images/bg-pattern.jpg) repeat-x center top;
+    background-color: #E2C490;
+    font-family: "Times New Roman", Times, serif;
+    margin: auto auto auto 200px;
+}
+#background {
+    background: url(../images/bg-pattern.jpg) repeat-x center top;
+    min-height: 1500px;
+    height: 2000px;
+    width: 1100px;
+    margin:auto;
+
+}
+#page {
+
+}
+img {
+    border: 0;
+}
+/*------------------------------ Sprites ------------------------------*/
+#navigation li, #navigation li a:hover, #navigation li.selected a {
+    background-image: url(../images/bg-menu.png);
+    background-repeat: repeat-x;
+}
+#contents div.box, #contents div.box > div, #contents div.body {
+    background-image: url(../images/content-box.png);
+    background-repeat: no-repeat;
+}
+#main div.box, #main div.box > div, #main div.box > div > div {
+    background-image: url(../images/bg-box.png);
+    background-repeat: no-repeat;
+}
+/*------------------------------ HEADER ------------------------------*/
+#header {
+    margin-bottom: 20px;
+    padding-top: 20px;
+    float:left;
+}
+/** Logo **/
+#logo {
+    float: left;
+    margin-bottom: 20px;
+    margin-left: 49px;
+}
+/** Navigation **/
+#navigation {
+    clear: both;
+    float:left;
+    display: inline-block;
+    width: 100%;
+    list-style: none;
+}
+#navigation ul {
+
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    text-align: center;
+
+}
+#navigation li {
+    float: left;
+    background-position: 0 -118px;
+    background-repeat: no-repeat;
+    height: 49px;
+    width: 166px;
+    position: relative;
+}
+
+#navigation li a {
+    display: block;
+    color: #FFFFFF;
+    font: bold 15px/48px Arial, Helvetica, sans-serif;
+    text-decoration: none;
+    white-space: nowrap; 
+    background: url(../images/bg-navigation.png) no-repeat;
+}
+#navigation li a:hover {
+    background-position: 0 -59px;
+    color: #6d6157;
+    position: relative;
+}
+#navigation li.selected a {
+    background-position: 0 0;
+    color: #e4e1bd;
+    position: absolute!important;
+    display: block;
+    margin:0;
+
+}
+
+#navigation li.active a {
+    color: #fff;
+}
+#sub1, #sub2, #sub3, #sub4, #sub5, #sub6 {
+
+    display:none;  /* Para ocultar los submenÃºs al principio */
+    padding:1px;
+    position: absolute; /* Para que el menÃº se despliegue hacia abajo. Relative para que se despliegue horizontal */
+    font: bold 14px/49px Arial, Helvetica, sans-serif;
+    white-space: nowrap;
+
+
+}
+/* -----------------------------------------------------------------------------*/
+/* ------------------------------!ESTATICO --------------------------------------*/
+/* -----------------------------------------------------------------------------*/
+
+
+
+
+/*------------------------------ CONTENTS ------------------------------*/
+#contents {
+
+}
+
+/*-------------------------------- Adbox ------------------------------*/
+.adbox {
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+
+}
+.adbox ul {
+    list-style: none; 
+
+    height:200px;
+}
+.adbox ul li{
+    float: left;
+
+    margin: 5px;
+}
+
+/* clase zoomIt: Agranda un poco (para destacar) imagenes o texto al pasar el raton por encima*/
+.zoomIt{
+    display:block !important;
+    -webkit-transition:-webkit-transform 1s ease-out;
+    -moz-transition:-moz-transform 0.01s ease-out;
+    -o-transition:-o-transform 0.01s ease-out;
+    -ms-transition:-ms-transform 0.01s ease-out;
+    transition:transform 0.01s ease-out;
+}
+.zoomIt:hover{
+    -moz-transform: scale(1.1);
+    -webkit-transform: scale(1.1);
+    -o-transform: scale(1.1);
+    -ms-transform: scale(1.1);
+    transform: scale(1.1)
+}
+
+.minilogo{
+    position: absolute;
+    left: 1%;
+    top: 50%;
+}
+
+
+/*------------------------------ NOVEDADES ------------------------------*/
+.contenido{
+
+    width: 100%;
+    margin: auto;
+    float:left;
+
+}
+
+.contenido li{
+    list-style:none;
+    margin: auto;
+    float:left;
+
+}
+
+.contenido li a{
+
+    margin: auto;
+    float:left;
+
+}
+.sidebar{
+    width:290px;
+    height: 900px;
+    background-color: #FFFFFF;
+    border:2px solid;
+    margin-left: 20px;
+    padding-top:10px;
+}
+
+.adboxPrincipal li a{
+    height:200px;
+    width: 250px;
+    padding-top:10px;
+}
+.tituloNovedades{
+    background-color: #449181;
+    color: #FFFFFF;
+    width:500px;
+    border:2px solid;
+    padding:10px;
+    float:left;
+}
+.tituloNovedades a{
+    float:right!important;
+}
+.info{
+    background-color: #449181;
+    color: #FFFFFF;
+    width:650px;
+    border:2px solid;
+    padding:10px;
+    float:left;
+   
+}
+.info a{
+    float:right!important;
+}
+.sidebar_cruceros{
+    width:320px;
+    height: 900px;
+    background-color: #eee7c3;
+    border:2px solid;
+    margin-left: 10px;
+    padding-top: 0px;
+    float: left;
+    list-style:none;
+}
+.sidebar_cruceros ul{
+
+    list-style:none;
+}
+.sidebar_cruceros ul li{
+    list-style:none;
+}
+.sidebar_cruceros img{
+    height: 200px!important;
+    width: 250px;
+    padding-bottom: 20px;
+}
+.contenidoBasico{
+    background-color: #449181;
+    color: #FFFFFF;
+    width:870px;
+    border:2px solid;
+    padding:10px;
+    float:left;
+}
+.contenidoBasico a{
+    float:right!important;
+}
+.novedades{
+
+    margin-top: auto;
+    font: 15px Arial, Helvetica, sans-serif;	
+}
+
+.ventajas{
+    float:left;
+}
+
+.requisitosImserso{
+
+    text-indent:20px;
+}
+
+.contacto{
+    float: left;
+    color: #660000;
+    margin-top: 10px;
+    /*	font: 15px/49px Tahoma, Geneva, sans-serif;	*/
+    font: 15px/49px Arial, Helvetica, sans-serif;	
+}
+
+.contacto .telephone {
+    width: 141px;
+    padding: 10px 10px 10px 60px;
+    margin: 6px 6px 5px 3px;
+    -moz-border-radius: 2px;
+    -webkit-border-radius: 2px;
+    border-radius: 2px;
+    background: rgba(0, 0, 0, 0.5) url('../images/ico-telephone.png') no-repeat
+        15px center;
+    font-size: 21px;
+    color: rgba(255, 255, 255, 0.9);
+    text-align: right;
+    cursor: text;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* -----------------------------------------------------------------------------*/
+/* ------------------------------ESTATICO --------------------------------------*/
+/* -----------------------------------------------------------------------------*/
+
+/*------------------------------ FOOTER ------------------------------*/
+
+
+footer {
+
+    color: #594334;
+    line-height: 100%;
+    text-transform: uppercase;
+    text-align: center;
+}
+
+.barFooter{
+    margin-top: 10%;
+    width: 95%;
+
+    background-color: #ac9e94;
+    height: 40%;
+    font-size: 90%;
+    float:left;
+    text-align: center;
+
+}
+
+.navigation {
+	float: left;
+	display: inline-block;
+	list-style: none;
+	width: 60%;
+	
+}
+
+.navigation li {
+	float: left;
+	width: 15%;
+	
+}
+
+.navigation li a {
+	color: #594334;
+	text-decoration: none;
+}
+
+.navigation li a:hover {
+	color: #eee7c3;
+}
+
+.navigation li.active a {
+	color: #fff;
+}
+
+/** Connect **/
+#connect {
+    float: left;
+    height: 40%;
+    line-height: 80%;
+    text-align: center;
+}
+#connect a {
+    background: url(../images/icons.png) no-repeat;
+    display: inline-block;
+    height: 28px;
+    width: 23px;
+    margin-top: 10%;
+}
+
+#connect a.pinterest {
+    background-position: 0 -33px;
+}
+#connect a.facebook {
+    background-position: 0 -98px;
+}
+#connect a.twitter {
+    background-position: 0 -164px;
+    width: 28px;
+}
+#connect a.googleplus {
+    background-position: 0 -230px;
+}
+#connect a.pinterest:hover {
+    background-position: 0 0;
+}
+#connect a.facebook:hover {
+    background-position: 0 -65px;
+}
+#connect a.twitter:hover {
+    background-position: 0 -131px;
+}
+#connect a.googleplus:hover {
+    background-position: 0 -197px;
+}
+
+/* -----------------------------------------------------------------------------*/
+/* ---------------------------- /ESTATICO --------------------------------------*/
+/* -----------------------------------------------------------------------------*/

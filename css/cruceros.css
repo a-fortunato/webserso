@@ -1,0 +1,135 @@
+/** MENU PRINCIPAL **/
+
+/** Utilizamos cruceros.css como base para la estructura de todas las ofertas **/
+
+.contenidosCruceros {
+	width: 100%;
+	height: 100%;
+}
+
+
+
+.ventajasCruceros {
+	margin-left: 5%;
+	float: left;
+	width: 65%;
+	height: 100%;
+}
+
+.ventajasCruceros li {
+	font-weight: bold;
+	
+}
+
+.imagenesCruceros {
+	float: right;
+	margin-right : 150px;
+	list-style: none;
+}
+
+.imagenesCruceros ul {
+	text-align: center;
+	width: 90%;
+	list-style: none;
+	display: block;
+}
+
+.imagenesCruceros ul li {
+	color: #663300;
+	display: block;
+	text-decoration: none;
+	text-transform: uppercase;
+}
+
+/** MODELO DE CRUCERO OFERTA**/
+.crucero_mediterraneo {
+	float: left;
+	text-align: center;
+	color: #372D21;
+	padding: 2%;
+	width: 45%;
+}
+
+.crucero_mediterraneo ul {
+	list-style: none;
+	text-align: center;
+}
+
+.precio {
+	text-align: right;
+	font: bold 20px/48px sans-serif;
+	color: #009900;
+}
+
+.crucero_mediterraneo img {
+	float: left;
+}
+
+.crucero_mediterraneo p {
+	float: right;
+	text-align: left;
+}
+
+/** DETALLES CRUCERO OFERTA **/
+.crucero_mediterraneo_1 {
+	float: left;
+	text-align: left;
+	color: #372D21;
+	padding: 2%;
+	width: 95%;
+}
+
+.crucero_mediterraneo_1 h1 {
+	text-decoration: underline;
+	text-align: center;
+}
+
+.crucero_mediterraneo_1 h2 {
+	text-decoration: underline;
+	text-align: center;
+}
+
+.crucero_mediterraneo_1 h3 {
+	text-align: center;
+}
+
+.crucero_mediterraneo_1 ul {
+	list-style: none;
+
+	display: block;
+}
+
+.crucero_mediterraneo_1 ul li {
+
+	display: block;
+	padding: 5px 26px;
+}
+
+.crucero_mediterraneo_1 img {
+	float: left;
+	text-align: center;
+}
+
+.precio {
+	float: right;
+	text-align: right;
+	font: bold 30px/50px Arial, sans-serif;
+	color: #009900;
+}
+
+.descripcion ul li {
+	
+	text-align: center;
+	font: bold 17px/20px Arial, sans-serif;
+}
+
+.desc_itinerario {
+	float: left;
+	text_align:left;
+}
+.desc_itinerario ul li {
+	
+	text-align: center;
+	font: bold 17px/20px Arial, sans-serif;
+}
+

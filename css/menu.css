@@ -1,0 +1,55 @@
+.nav {
+	
+	list-style: none;
+	font: bold 15px/49px Arial, Helvetica, sans-serif;
+	color: #663300;
+	padding-bottom: 5%;
+}
+
+.nav ul {
+	text-align: center;
+	color-background: #FAF4D1;
+}  
+
+.nav li{
+	display: block;
+	float:left;
+	position: relative;
+	color-background: #FAF4D1;
+	
+	margin-left:7%;
+	
+}
+
+.nav li a{
+
+	
+	color: #663300;
+	display: block;
+	font: bold 17px/49px Arial, Helvetica, sans-serif;
+	text-decoration: none;
+	white-space: nowrap;  /* Para que no se cambien de línea los subs */
+	margin:auto;
+	text-align:left;
+	text-transform:uppercase;
+	border-radius:15px;
+	padding-left:8px;
+	padding-right:8px;
+	background: #E4C08C;
+}
+
+
+
+
+#sub1, #sub2, #sub3, #sub4, #sub5, #sub6 {
+	
+	display:none;  /* Para ocultar los submenús al principio */
+	padding:1px;
+	position: absolute; /* Para que el menú se despliegue hacia abajo. Relative para que se despliegue horizontal */
+	font: bold 15px/49px Arial, Helvetica, sans-serif;
+}
+
+
+
+
+
