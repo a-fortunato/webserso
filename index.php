@@ -18,7 +18,8 @@
             if (isset($_GET["p"])) {
                 /* @var $_GET type */
                 $p = $_GET["p"];
-
+				include  $p . '.php';
+				/*
                 if ($p == "contacto") {
                     include 'contacto.php';
                 } elseif ($p == "send") {
@@ -116,6 +117,7 @@
                 } elseif ($p == "ventajasdelimserso") {
                     include 'ventajasdelimserso.php';
                 }
+				*/
             } else {
                 include 'principal.php';
             }
