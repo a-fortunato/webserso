@@ -105,7 +105,14 @@ Oferta: 2baleares1
 Portada: playas/baleares/playa1/1.jpg
 BajoTitulo: 
 Sidebar: im_sidebar/playa_baleares_1.jpg
-Descriptivo: 
+Descriptivo: playas/blanca/playa1/logo11.png
+Descriptivo: playas/blanca/playa1/1.jpg
+Descriptivo: playas/blanca/playa1/2.jpg
+Descriptivo: playas/blanca/playa1/3.jpg
+Descriptivo: playas/blanca/playa1/4.jpg
+Descriptivo: playas/blanca/playa1/5.jpg
+Descriptivo: playas/blanca/playa1/6.jpg
+Descriptivo: playas/blanca/playa1/7.jpg
 
 Destino: 2blanca
 Icono: 

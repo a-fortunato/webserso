@@ -1,7 +1,7 @@
 <div id="contents">
     <div class="adbox">
-		<?php include 'adbox.php'; ?>
-	</div>
+        <?php include 'adbox.php'; ?>
+    </div>
 
     <div class="contenido">
         <ul>
