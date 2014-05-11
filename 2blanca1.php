@@ -5,7 +5,7 @@
         <h1>Hotel Spa Porta Maris * * * *</h1>
         <h3>Alicante, España</h3>
 
-        <img src="images/playas/blanca/playa1/logo11.jpg"
+        <img src="<?php echo Imagen::cargaImagen("2blanca1", "BajoTitulo"); ?>"
              alt=" Imagen playa">
 
         <div class="descripcion">
@@ -60,19 +60,8 @@
         </div>
 
         <div>
-
-            <img class="zoomIt" src="images/playas/blanca/playa1/1.jpg"
-                 alt="Imagen camarote"> <img class="zoomIt"
-                 src="images/playas/blanca/playa1/2.jpg" alt="Imagen camarote">
-            <img class="zoomIt" src="images/playas/blanca/playa1/3.jpg"
-                 alt="Imagen camarote"> <img class="zoomIt"
-                 src="images/playas/blanca/playa1/4.jpg" alt="Imagen camarote">
-            <img class="zoomIt" src="images/playas/blanca/playa1/5.jpg"
-                 alt="Imagen camarote"> <img class="zoomIt"
-                 src="images/playas/blanca/playa1/6.jpg" alt="Imagen camarote">
-            <img class="zoomIt" src="images/playas/blanca/playa1/7.jpg"
-                 alt="Imagen camarote">
-
+			<img class="zoomIt" src="<?php echo Imagen::cargaImagen("2blanca1", "Descriptivo"); ?>"
+					alt="Imagen camarote">
         </div>
         <div class="precio">
             <h1>600€</h1>

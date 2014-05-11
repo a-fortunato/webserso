@@ -6,7 +6,7 @@
             <h2>Apartaments Voralmar - Mas d'en Gran</h2>
             <h3>Cambrils, España</h3>
 
-            <img src="images/playas/dorada/playa1/1.jpg" alt="Imagen crucero">
+            <img src="<?php echo Imagen::cargaImagen("2dorada1", "Portada"); ?>" alt="Imagen crucero">
 
 
             <ul>

@@ -6,7 +6,7 @@
 			<h2>Hotel Fuerte Marbella * * * * *</h2>
 			<h3>Marbella, España</h3>
 	
-			<img src="images/playas/sol/playa1/7.jpg" alt="Imagen crucero">
+			<img src="<?php echo Imagen::cargaImagen("2sol1", "Portada"); ?>" alt="Imagen crucero">
 	
 	
 			<ul>
@@ -35,7 +35,7 @@
 			<h2>Apartamentos Bajondillo * * *</h2>
 			<h3>Torremolinos, España</h3>
 	
-			<img src="images/playas/sol/playa2/3.jpg" alt="Imagen Bajondillo">
+			<img src="<?php echo Imagen::cargaImagen("2sol2", "Portada"); ?>" alt="Imagen Bajondillo">
 	
 			<ul>
 				<li>7 días</li>

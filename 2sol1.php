@@ -6,7 +6,8 @@
             <h1>Hotel Fuerte Marbella * * * * *</h1>
             <h3>Marbella, España</h3>
 
-            <img src="images/playas/sol/playa1/logo11.jpg" alt=" Imagen playa">
+            <img src="<?php echo Imagen::cargaImagen("2sol1", "BajoTitulo"); ?>"
+				alt=" Imagen playa" width="625px">
 
             <div class="descripcion">
                 <ul>
@@ -72,19 +73,8 @@
             </div>
 
             <div>
-
-                <img class="zoomIt" src="images/playas/sol/playa1/1.jpg"
-                     alt="Imagen camarote"> <img class="zoomIt"
-                     src="images/playas/sol/playa1/2.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/playas/sol/playa1/3.jpg"
-                     alt="Imagen camarote"> <img class="zoomIt"
-                     src="images/playas/sol/playa1/4.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/playas/sol/playa1/5.jpg"
-                     alt="Imagen camarote"> <img class="zoomIt"
-                     src="images/playas/sol/playa1/6.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/playas/sol/playa1/7.jpg"
-                     alt="Imagen camarote">
-
+				<img class="zoomIt" src="<?php echo Imagen::cargaImagen("2sol1", "Descriptivo"); ?>"
+					alt="Imagen camarote">
             </div>
             <div class="precio">
                 <h1>450€</h1>

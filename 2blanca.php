@@ -8,7 +8,8 @@
 			<h2>Hotel Spa Porta Maris * * * *</h2>
 			<h3>Alicante, España</h3>
 			
-			<img src="images/playas/blanca/playa1/1.jpg" alt="Imagen crucero"></img>
+			<img src="<?php echo Imagen::cargaImagen("2blanca1", "Portada"); ?>"
+				alt="Imagen crucero"></img>
 			
 			<ul>
 				<li>7 días</li>

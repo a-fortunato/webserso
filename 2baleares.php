@@ -8,7 +8,8 @@
             <h2>Saratoga</h2>
             <h3>Paseo Mallorca, 6, 07012 Palma de Mallorca, España</h3>
 
-            <img src="images/playas/baleares/playa1/1.jpg" alt="Imagen crucero">
+            <img src="<?php echo Imagen::cargaImagen("2baleares1", "Portada"); ?>"
+				alt="Imagen crucero">
 
 
             <ul>

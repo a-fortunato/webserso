@@ -6,7 +6,7 @@
 			<h2>La Residencia Tarifa</h2>
 			<h3>Tarifa, España</h3>
 	
-			<img src="images/playas/luz/playa1/1.jpg" alt="Imagen crucero">
+			<img src="<?php echo Imagen::cargaImagen("2luz1", "Portada"); ?>" alt="Imagen crucero">
 	
 	
 			<ul>

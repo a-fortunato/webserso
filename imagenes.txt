@@ -102,47 +102,77 @@ Descriptivo: mediterraneo/cruc2/cam4.jpg
 Destino: 2baleares
 Icono: ofertas/3.jpg
 Oferta: 2baleares1
-Portada: 
+Portada: playas/baleares/playa1/1.jpg
 BajoTitulo: 
-Sidebar:
+Sidebar: im_sidebar/playa_baleares_1.jpg
 Descriptivo: 
 
 Destino: 2blanca
 Icono: 
 Oferta: 2blanca1
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Portada: playas/blanca/playa1/1.jpg
+BajoTitulo: playas/blanca/playa1/logo11.png
+Sidebar: im_sidebar/playa_blanca_1.jpg
+Descriptivo: playas/blanca/playa1/1.jpg
+Descriptivo: playas/blanca/playa1/2.jpg
+Descriptivo: playas/blanca/playa1/3.jpg
+Descriptivo: playas/blanca/playa1/4.jpg
+Descriptivo: playas/blanca/playa1/5.jpg
+Descriptivo: playas/blanca/playa1/6.jpg
+Descriptivo: playas/blanca/playa1/7.jpg
 
 Destino: 2dorada
 Icono: 
 Oferta: 2dorada1
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo:  
+Portada: playas/dorada/playa1/1.jpg
+BajoTitulo: playas/dorada/playa1/logo11.jpg
+Sidebar: im_sidebar/playa_dorada_1.jpg
+Descriptivo: playas/dorada/playa1/1.jpg
+Descriptivo: playas/dorada/playa1/2.jpg
+Descriptivo: playas/dorada/playa1/3.jpg
+Descriptivo: playas/dorada/playa1/4.jpg
+Descriptivo: playas/dorada/playa1/5.jpg
+Descriptivo: playas/dorada/playa1/6.jpg
+Descriptivo: playas/dorada/playa1/7.jpg
 
 Destino: 2luz
 Icono: 
 Oferta: 2luz1
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Portada: playas/luz/playa1/1.jpg
+BajoTitulo: playas/luz/playa1/logo11.jpg
+Sidebar: im_sidebar/playa_luz_1.jpg
+Descriptivo: playas/luz/playa1/1.jpg
+Descriptivo: playas/luz/playa1/2.jpg
+Descriptivo: playas/luz/playa1/3.jpg
+Descriptivo: playas/luz/playa1/4.jpg
+Descriptivo: playas/luz/playa1/5.jpg
+Descriptivo: playas/luz/playa1/6.jpg
+Descriptivo: playas/luz/playa1/7.jpg
 
 Destino: 2sol
 Icono: ofertas/4.jpg
 Oferta: 2sol1
-Portada: 
-BajoTitulo: 
-Descriptivo:
-Descritptivo:
+Portada: playas/sol/playa1/7.jpg
+BajoTitulo: playas/sol/playa1/logo11.jpg
+Descriptivo: playas/sol/playa1/1.jpg
+Descriptivo: playas/sol/playa1/2.jpg
+Descriptivo: playas/sol/playa1/3.jpg
+Descriptivo: playas/sol/playa1/4.jpg
+Descriptivo: playas/sol/playa1/5.jpg
+Descriptivo: playas/sol/playa1/6.jpg
+Descriptivo: playas/sol/playa1/7.jpg
 Oferta: 2sol2
-Portada: 
+Portada: playas/sol/playa2/3.jpg
 BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Sidebar: im_sidebar/playa_sol_1.jpg
+Descriptivo: playas/sol/playa2/1.jpg
+Descriptivo: playas/sol/playa2/2.jpg
+Descriptivo: playas/sol/playa2/3.jpg
+Descriptivo: playas/sol/playa2/4.jpg
+Descriptivo: playas/sol/playa2/5.jpg
+Descriptivo: playas/sol/playa2/6.jpg
+Descriptivo: playas/sol/playa2/7.jpg
+Descriptivo: playas/sol/playa2/8.jpg
 
 Destino: 3andalucia
 Icono: ofertas/2.jpg
