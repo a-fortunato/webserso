@@ -5,9 +5,9 @@
 			<h3>Bari, Katakolon, Santoríni, Pireo, Corfú, Dubrovnik,
 				Venecia</h3>
 	
-			<img class="zoomIt" src="images/adriatico/cruc1/cruc1_mapaPeq.jpg"
+			<img class="zoomIt" src="<?php echo Imagen::cargaImagen("1adriatico1", "Mapa"); ?>"
 				alt="Imagen crucero"> <img
-				src="images/adriatico/cruc1/msc-fantasia.jpg" alt="LOGOcrucero">
+				src="<?php echo Imagen::cargaImagen("1adriatico1", "Portada"); ?>" alt="LOGOcrucero">
 	
 			<ul>
 				<li>8 días y 7 noches</li>

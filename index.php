@@ -12,11 +12,7 @@
     </head>
     <body> 
         <div id="background">
-            <?php
-            //$img = new Imagen();
-			//$img->cargaImagen(...); // ó...
-			//Imagen::cargaImagen(...);
-			
+            <?php			
 			include_once 'header.php';
 
             if (isset($_GET["p"])) {

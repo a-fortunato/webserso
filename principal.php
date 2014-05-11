@@ -1,12 +1,14 @@
 <div id="contents">
-    <?php include 'adbox.php'; ?>
+    <div class="adbox">
+		<?php include 'adbox.php'; ?>
+	</div>
 
     <div class="contenido">
         <ul>
             <li>
                 <div class="tituloNovedades">
 
-                    <a href="./?p=2baleares"><img src="images/3.jpg" alt="Img"  height="200" width="200"></a>
+                    <a href="./?p=1cruceros"><img src="images/3.jpg" alt="Img"  height="200" width="200"></a>
                     <h1>Requisitos para solicitar viajes del Imserso 2014</h1>
                     <div class="requisitosImserso">
                         <p>Personas residentes en España que reúnan cualquiera de los siguientes requisitos:</p>
