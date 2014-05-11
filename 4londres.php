@@ -8,7 +8,7 @@
 	       <h2>Londres, Inglaterra</h2>
 	  <h3>Oferta de 3 días</h3>
 	  
-	  <img src="images/europa/0-londres-hotel-1.jpg" alt="Imagen crucero"> 
+	  <img src="<?php echo Imagen::cargaImagen("4londres1", "Portada"); ?>" alt="Imagen crucero"> 
 	  <ul>
 	    <li>3 días</li>
 	    <li>Salida Desde Granada</li>

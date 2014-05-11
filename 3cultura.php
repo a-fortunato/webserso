@@ -13,10 +13,10 @@
 	<div class="adbox">
 	  <ul>
 	    <li><a href="./?p=3romanico"><img class="zoomIt"
-					  src="images/cultura-20-romanico_logo.jpg" alt="Románico (Castilla y León)" title="Románico (Castilla y León)"></a></li>
-	    <li><a href="./?p=madrid"><img class="zoomIt" src="images/cultural-21-madrid-beartree_logo.jpg"
+					  src="<?php echo Imagen::cargaImagen("3romanico", "Icono"); ?>" alt="Románico (Castilla y León)" title="Románico (Castilla y León)"></a></li>
+	    <li><a href="./?p=3madrid"><img class="zoomIt" src="<?php echo Imagen::cargaImagen("3madrid", "Icono"); ?>"
 					    alt="Museos Madrid" title="Museos de Madrid"></a></li>
-	    <li><a href="./?p=andalucia"><img class="zoomIt" src="images/cultura-22-andalucia-alhambra_logo.jpg"
+	    <li><a href="./?p=3andalucia"><img class="zoomIt" src="<?php echo Imagen::cargaImagen("3andalucia", "Icono2"); ?>"
 					    alt="Andalucía" title="Andalucía"></a></li>
 	  </ul>
 	</div>

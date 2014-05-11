@@ -7,7 +7,7 @@
         <div class="crucero_mediterraneo_1">
             <h1>Circuito por Bélgica, Holanda y Luxemburgo</h1>
 
-            <img src="images/europa/1-benelux-1.jpg" alt=" Imagen playa">
+            <img src="<?php echo Imagen::cargaImagen("4benelux", "BajoTitulo");?>" alt=" Imagen benelux">
 
 
             <div class="descripcion">
@@ -74,20 +74,12 @@
                     º Seguro de viaje.</p>
 
                     <div>
-                        <img class="zoomIt" src="images/europa/1-benelux-2.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-3.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-4.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-5.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-6.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-7.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-8.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/1-benelux-9.jpg" alt="Imagen camarote">
-
+					<img class="zoomIt" src="<?php echo Imagen::cargaImagen("4benelux", "Descriptivo"); ?>"
+					alt="Benelux">
                     </div>
                     <div class="precio">
                         <h1>1270€</h1>
                     </div>
-
             </div>
         </div>
     </div>

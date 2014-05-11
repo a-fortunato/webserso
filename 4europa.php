@@ -9,13 +9,13 @@
 	<div class="adbox">
 	  <ul>
 	    <li><a href="./?p=4londres"><img class="zoomIt"
-					  src="images/30-londres_1.jpg" alt="Londres" title="Londres (Inglaterra)"></a></li>
+					  src="<?php echo Imagen::cargaImagen("4londres", "Icono"); ?>" alt="Londres" title="Londres (Inglaterra)"></a></li>
 	    <li><a href="./?p=4benelux"><img class="zoomIt" 
-					 src="images/31-benelux_1.jpg" alt="Benelux" title="Benelux (Bélgica, Países Bajos y Luxemburgo)"></a></li>
+					 src="<?php echo Imagen::cargaImagen("4benelux", "Icono"); ?>" alt="Benelux" title="Benelux (Bélgica, Países Bajos y Luxemburgo)"></a></li>
 	    <li><a href="./?p=4viena"><img class="zoomIt"
-					  src="images/32-viena_1.jpg" alt="Viena-Praga" title="Viena-Praga"></a></li>
+					  src="<?php echo Imagen::cargaImagen("4viena", "Icono"); ?>" alt="Viena-Praga" title="Viena-Praga"></a></li>
 	    <li><a href="./?p=4roma"><img class="zoomIt"
-					       src="images/33-roma_1.jpg" alt="Roma" title="Roma (Italia)"></a></li>
+					       src="<?php echo Imagen::cargaImagen("4roma", "Icono"); ?>" alt="Roma" title="Roma (Italia)"></a></li>
 	  </ul>
 	</div>
 </div>

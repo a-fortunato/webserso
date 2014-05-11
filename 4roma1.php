@@ -9,7 +9,7 @@
             <h1>Hotel Arcadia * * *</h1>
             <h3>Roma, Italia</h3>
 
-            <img src="images/europa/3-roma-2.jpg" alt="Roma">
+            <img src="<?php echo Imagen::cargaImagen("4roma1", "BajoTitulo");?>" alt="Roma">
 
             <div class="descripcion">
                 <ul>
@@ -41,13 +41,8 @@
             </div>
 
             <div>
-                <img class="zoomIt" src="images/europa/3-roma-hotel-1.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/europa/3-roma-hotel-2.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/europa/3-roma-hotel-3.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/europa/3-roma-hotel-4.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/europa/3-roma-hotel-5.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/europa/3-roma-hotel-6.jpg" alt="Imagen camarote">
-                <img class="zoomIt" src="images/europa/3-roma-hotel-7.jpg" alt="Imagen camarote">		    
+                <img class="zoomIt" src="<?php echo Imagen::cargaImagen("4roma1", "Descriptivo"); ?>"
+					alt="Imagen camarote">		    
             </div>
 
             <div class="precio">

@@ -5,7 +5,7 @@
         <div class="crucero_mediterraneo_1">
             <h1>Circuito por Andalucía Monumental</h1>
 
-            <br><img src="images/22-andalucia-1.jpg" alt="Alhambra (Granada)">
+            <br><img src="<?php echo Imagen::cargaImagen("3andalucia", "BajoTitulo"); ?>" alt="Alhambra (Granada)">
 
 
             <div class="descripcion">
@@ -53,13 +53,8 @@
                     º Seguro de viaje y anulación.</p>
 
                     <div>
-                        <img class="zoomIt" src="images/22-andalucia-2.jpg" title="Málaga">
-                        <img class="zoomIt" src="images/22-andalucia-3.jpg" title="Málaga">
-                        <img class="zoomIt" src="images/22-andalucia-4.jpg" title="Sevilla">
-                        <img class="zoomIt" src="images/22-andalucia-5.jpg" title="Sevilla">
-                        <img class="zoomIt" src="images/22-andalucia-6.jpg" title="Granada">
-                        <img class="zoomIt" src="images/22-andalucia-7.jpg" title="Málaga">
-
+                        <img class="zoomIt" src="<?php echo Imagen::cargaImagen("3andalucia", "Descriptivo"); ?>"
+					alt="Andalucia">
                     </div>
                     <div class="precio">
                         <h1>600€</h1>

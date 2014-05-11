@@ -7,7 +7,7 @@
 	    <div class="crucero_mediterraneo">
 	        <h2>Roma, Italia</h2>
 	  <h3>Oferta de 5 días</h3>
-	  <img src="images/europa/3-roma-1.jpg" alt="Roma">
+	  <img src="<?php echo Imagen::cargaImagen("4roma1", "Portada");?>" alt="Roma">
 	  <ul>
 	    <li>5 días y 4 noches</li>
 	    <li>Salida desde Barcelona</li>
@@ -20,7 +20,7 @@
 	    <h1>148€</h1>
 	  </div>
 	  
-	  <a href="./?p=4roma1"><img src="images/ver_mas.jpg" alt="Ver más "></a>
+	  <a href="./?p=4roma1"><img src="images/ver_mas.jpg" alt="Ver más"></a>
 		</div>	
 	</div>
 </div>

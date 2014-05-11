@@ -7,7 +7,7 @@
         <div class="crucero_mediterraneo_1">
             <h1>Circuito por Viena, Praga y Budapest</h1>
 
-            <img src="images/europa/2-viena-1.jpg" alt=" Imagen playa">
+            <img src="<?php echo Imagen::cargaImagen("4viena", "BajoTitulo"); ?>" alt="Imagen Viena">
 
 
             <div class="descripcion">
@@ -68,11 +68,8 @@
 
 
                     <div>
-                        <img class="zoomIt" src="images/europa/2-viena-2.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/2-viena-3.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/2-viena-4.jpg" alt="Imagen camarote">
-                        <img class="zoomIt" src="images/europa/2-viena-5.jpg" alt="Imagen camarote">
-
+                        <img class="zoomIt" src="<?php echo Imagen::cargaImagen("4viena", "Descriptivo"); ?>"
+					alt="Imagen camarote">
                     </div>
                     <div class="precio">
                         <h1>921€</h1>

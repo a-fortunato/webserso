@@ -9,7 +9,7 @@
             <h1>Millenium Hotel London Mayfair * * * *</h1>
             <h3>Londres, Inglaterra</h3>
 
-            <img src="images/europa/0-londres-1.jpg" alt=" Imagen playa">
+            <img src="<?php echo Imagen::cargaImagen("4londres1", "BajoTitulo"); ?>" alt=" Imagen playa">
 
             <div class="descripcion">
                 <ul>
@@ -36,16 +36,8 @@
                 <li>Hay conexión a internet Wi-Fi disponible en todo el establecimiento.</li>
 
                 <div>
-                    <img class="zoomIt" src="images/europa/0-londres-2.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-3.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-guardia.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-trafalgarsquare.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-oxford_st.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-hotel-2.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-hotel-3.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/europa/0-londres-hotel-4.jpg" alt="Imagen camarote">
-
-
+					<img class="zoomIt" src="<?php echo Imagen::cargaImagen("4londres1", "Descriptivo"); ?>"
+						alt="Imagen camarote">
                 </div>
                 <div class="precio">
                     <h1>250€</h1>
@@ -68,7 +60,7 @@
                 </div>
             </div>
             <div>
-                <img src="images/europa/0-londres-total.jpg" alt="Todo Londres">
+                <img src="<?php echo Imagen::cargaImagen("4londres1", "Pie"); ?>" width="625px" alt="Todo Londres">
             </div>
         </div>
     </div>

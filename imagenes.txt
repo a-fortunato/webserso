@@ -176,55 +176,85 @@ Descriptivo: playas/sol/playa2/8.jpg
 
 Destino: 3andalucia
 Icono: ofertas/2.jpg
+Icono2: cultura-22-andalucia-alhambra_logo.jpg
 Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+BajoTitulo: 22-andalucia-1.jpg
+Sidebar: im_sidebar/cul_andalucia.jpg
+Descriptivo: 22-andalucia-2.jpg
+Descriptivo: 22-andalucia-3.jpg
+Descriptivo: 22-andalucia-4.jpg
+Descriptivo: 22-andalucia-5.jpg
+Descriptivo: 22-andalucia-6.jpg
+Descriptivo: 22-andalucia-7.jpg
 
 Destino: 3madrid
-Icono:  
+Icono: cultural-21-madrid-beartree_logo.jpg
 Portada: 
 BajoTitulo: 
-Sidebar:
+Sidebar: im_sidebar/cul_madrid.jpg
 Descriptivo: 
 
 Destino: 3romanico
-Icono: 
+Icono: cultura-20-romanico_logo.jpg
 Portada: 
 BajoTitulo: 
-Sidebar:
+Sidebar: im_sidebar/cul_romanico.jpg
 Descriptivo: 
 
 Destino: 4benelux
-Icono: 
+Icono: 31-benelux_1.jpg
 Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+BajoTitulo: europa/1-benelux-1.jpg
+Sidebar: im_sidebar/eu_benelux.jpg
+Descriptivo: europa/1-benelux-2.jpg
+Descriptivo: europa/1-benelux-3.jpg
+Descriptivo: europa/1-benelux-4.jpg
+Descriptivo: europa/1-benelux-5.jpg
+Descriptivo: europa/1-benelux-6.jpg
+Descriptivo: europa/1-benelux-7.jpg
+Descriptivo: europa/1-benelux-8.jpg
+Descriptivo: europa/1-benelux-9.jpg
 
 Destino: 4londres
-Icono: 
+Icono: 30-londres_1.jpg
 Oferta: 4londres1
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Portada: europa/0-londres-hotel-1.jpg
+BajoTitulo: europa/0-londres-1.jpg
+Sidebar: im_sidebar/eu_londres.jpg
+Descriptivo: europa/0-londres-2.jpg
+Descriptivo: europa/0-londres-3.jpg
+Descriptivo: europa/0-londres-guardia.jpg
+Descriptivo: europa/0-londres-trafalgarsquare.jpg
+Descriptivo: europa/0-londres-oxford_st.jpg
+Descriptivo: europa/0-londres-hotel-2.jpg
+Descriptivo: europa/0-londres-hotel-3.jpg
+Descriptivo: europa/0-londres-hotel-4.jpg
+Pie: europa/0-londres-total.jpg
 
 Destino: 4roma
-Icono: 
+Icono: 33-roma_1.jpg
 Oferta: 4roma1
-IconoOferta: 
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Icono: 
+Portada: europa/3-roma-1.jpg
+BajoTitulo: europa/3-roma-2.jpg
+Sidebar: im_sidebar/eu_roma.jpg
+Descriptivo: europa/3-roma-hotel-1.jpg
+Descriptivo: europa/3-roma-hotel-2.jpg
+Descriptivo: europa/3-roma-hotel-3.jpg
+Descriptivo: europa/3-roma-hotel-4.jpg
+Descriptivo: europa/3-roma-hotel-5.jpg
+Descriptivo: europa/3-roma-hotel-6.jpg
+Descriptivo: europa/3-roma-hotel-7.jpg
 
 Destino: 4viena
-Icono: 
+Icono: 32-viena_1.jpg
 Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+BajoTitulo: europa/2-viena-1.jpg
+Sidebar: im_sidebar/eu_viena.jpg
+Descriptivo: europa/2-viena-2.jpg
+Descriptivo: europa/2-viena-3.jpg
+Descriptivo: europa/2-viena-4.jpg
+Descriptivo: europa/2-viena-5.jpg
 
 Destino: 5groenlandia
 Icono: 
