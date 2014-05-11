@@ -8,7 +8,7 @@
 	        <h2>Safari</h2>
 	  <h3>Addo, Lesotho y Drakensberg</h3>
 	  
-	  <img src="images/exotico/3-lesoto-0.jpg" alt="Imagen hotel"> 
+	  <img src="<?php echo Imagen::cargaImagen("5lesoto1", "Portada"); ?>" alt="Imagen hotel"> 
 	  <ul>
 	    <li>8 días</li>
 	    <li>Salida desde Granada</li>

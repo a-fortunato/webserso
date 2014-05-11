@@ -9,7 +9,7 @@
             <h1>Safari por África</h1>
             <h3>Addo, Lesotho y Drakensberg</h3>
 
-            <img src="images/exotico/3-lesoto-1.jpg" alt="Imagen hotel"> 
+            <img src="<?php echo Imagen::cargaImagen("5lesoto1", "BajoTitulo"); ?>" alt="Imagen hotel"> 
 
             <div class="descripcion">
                 <ul>
@@ -46,11 +46,8 @@
 
 
                 <div>
-                    <img class="zoomIt" src="images/exotico/3-lesoto-2.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/3-lesoto-3.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/3-lesoto-4.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/3-lesoto-5.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/3-lesoto-6.jpg" alt="Imagen camarote">
+                    <img class="zoomIt" src="<?php echo Imagen::cargaImagen("5lesoto1", "Descriptivo"); ?>"
+					alt="Imagen camarote">
                 </div>
 
                 <div class="precio">

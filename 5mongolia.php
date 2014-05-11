@@ -8,7 +8,7 @@
             <h1>Maravillas de Mongolia 2014</h1>
             <h3>Mongolia</h3>
 
-            <img src="images/exotico/2-mongolia-1.jpg" alt="Imagen hotel"> 
+            <img src="<?php echo Imagen::cargaImagen("5mongolia", "BajoTitulo"); ?>" alt="Imagen hotel"> 
 
             <div class="descripcion">
                 <ul>
@@ -57,12 +57,8 @@
 
 
                 <div>
-                    <img class="zoomIt" src="images/exotico/2-mongolia-2.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/2-mongolia-3.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/2-mongolia-4.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/2-mongolia-5.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/2-mongolia-6.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/2-mongolia-7.jpg" alt="Imagen camarote">
+					<img class="zoomIt" src="<?php echo Imagen::cargaImagen("5mongolia", "Descriptivo"); ?>"
+						alt="Imagen camarote">
                 </div>
 
                 <div class="precio">

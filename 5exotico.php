@@ -14,13 +14,13 @@
 	<div class="adbox">
 	  <ul>
 	    <li><a href="./?p=5seychelles"><img class="zoomIt"
-					  src="images/40-seychelles_1.jpg" alt="Seychelles" title="República de las Seychelles"></a></li>
+					  src="<?php echo Imagen::cargaImagen("5seychelles", "Icono"); ?>" alt="Seychelles" title="República de las Seychelles"></a></li>
 	    <li><a href="./?p=5groenlandia"><img class="zoomIt" 
-						   src="images/41-groenlandia_1.jpg" alt="Groenlandia" title="Groenlandia"></a></li>
+						   src="<?php echo Imagen::cargaImagen("5groenlandia", "Icono"); ?>" alt="Groenlandia" title="Groenlandia"></a></li>
 	    <li><a href="./?p=5mongolia"><img class="zoomIt"
-					  src="images/42-mongolia_1.jpg" alt="Mongolia" title="Mongolia"></a></li>
+					  src="<?php echo Imagen::cargaImagen("5mongolia", "Icono"); ?>" alt="Mongolia" title="Mongolia"></a></li>
 	    <li><a href="./?p=5lesoto"><img class="zoomIt"
-					       src="images/43-lesoto_1.jpg" alt="Lesoto" title="Reino de Lesoto"></a></li>
+					       src="<?php echo Imagen::cargaImagen("5lesoto", "Icono"); ?>" alt="Lesoto" title="Reino de Lesoto"></a></li>
 	  </ul>
 	</div>
 

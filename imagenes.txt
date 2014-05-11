@@ -234,7 +234,6 @@ Pie: europa/0-londres-total.jpg
 Destino: 4roma
 Icono: 33-roma_1.jpg
 Oferta: 4roma1
-Icono: 
 Portada: europa/3-roma-1.jpg
 BajoTitulo: europa/3-roma-2.jpg
 Sidebar: im_sidebar/eu_roma.jpg
@@ -257,35 +256,52 @@ Descriptivo: europa/2-viena-4.jpg
 Descriptivo: europa/2-viena-5.jpg
 
 Destino: 5groenlandia
-Icono: 
+Icono: 41-groenlandia_1.jpg
 Oferta: 5groenlandia1
-IconoOferta: 
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo:  
+Portada: exotico/1-groenlandia-0.jpg
+BajoTitulo: exotico/1-groenlandia-1.jpg
+Sidebar: im_sidebar/ex_groenlandia.jpg
+Descriptivo: exotico/1-groenlandia-2.jpg
+Descriptivo: exotico/1-groenlandia-3.jpg
+Descriptivo: exotico/1-groenlandia-4.jpg
+Descriptivo: exotico/1-groenlandia-5.jpg
+Descriptivo: exotico/1-groenlandia-6.jpg
+Descriptivo: exotico/1-groenlandia-7.jpg
 
 Destino: 5lesoto
-Icono: 
+Icono: 43-lesoto_1.jpg
 Oferta: 5lesoto1
-IconoOferta: 
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Portada: exotico/3-lesoto-0.jpg
+BajoTitulo: exotico/3-lesoto-1.jpg
+Sidebar: im_sidebar/ex_lesoto.jpg
+Descriptivo: exotico/3-lesoto-2.jpg
+Descriptivo: exotico/3-lesoto-3.jpg
+Descriptivo: exotico/3-lesoto-4.jpg
+Descriptivo: exotico/3-lesoto-5.jpg
+Descriptivo: exotico/3-lesoto-6.jpg
 
 Destino: 5mongolia
-Icono: 
+Icono: 42-mongolia_1.jpg
 Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+BajoTitulo: exotico/2-mongolia-1.jpg
+Sidebar: im_sidebar/ex_mongolia.jpg
+Descriptivo: exotico/2-mongolia-2.jpg
+Descriptivo: exotico/2-mongolia-3.jpg
+Descriptivo: exotico/2-mongolia-4.jpg
+Descriptivo: exotico/2-mongolia-5.jpg
+Descriptivo: exotico/2-mongolia-6.jpg
+Descriptivo: exotico/2-mongolia-7.jpg
 
 Destino: 5seychelles
-Icono: 
+Icono: 40-seychelles_1.jpg
 Oferta: 5seychelles1
-IconoOferta: 
-Portada: 
-BajoTitulo: 
-Sidebar:
-Descriptivo: 
+Portada: exotico/0-seychelles-1.jpg
+BajoTitulo: exotico/0-seychelles-1.jpg
+Sidebar: im_sidebar/ex_seychelles.jpg
+Descriptivo: exotico/0-seychelles-2.jpg
+Descriptivo: exotico/0-seychelles-3.jpg
+Descriptivo: exotico/0-seychelles-4.jpg
+Descriptivo: exotico/0-seychelles-5.jpg
+Descriptivo: exotico/0-seychelles-6.jpg
+Descriptivo: exotico/0-seychelles-7.jpg
+FIN

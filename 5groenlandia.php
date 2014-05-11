@@ -8,7 +8,7 @@
 	        <h2>La Magia de Ilulissat</h2>
 	  <h3>Groenlandia</h3>
 	  
-	  <img src="images/exotico/1-groenlandia-0.jpg" alt="Imagen hotel"> 
+	  <img src="<?php echo Imagen::cargaImagen("5groenlandia1", "Portada"); ?>" alt="Imagen roca"> 
 	  <ul>
 	    <li>5 días</li>
 	    <li>Salida desde Granada</li>

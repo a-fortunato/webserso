@@ -9,7 +9,7 @@
             <h3>Islas Seychelles</h3>
 
             <img class="zoomIt" src="images/exotico/0-seychelles-hotel.jpg" alt="Imagen camarote">
-            <img src="images/exotico/0-seychelles-1.jpg" alt="Imagen hotel"> 
+            <img src="<?php echo Imagen::cargaImagen("5seychelles1", "BajoTitulo"); ?>" alt="Imagen hotel"> 
 
             <div class="descripcion">
                 <ul>
@@ -31,12 +31,8 @@
                 <li>TV por cable.</li>
 
                 <div>
-                    <img class="zoomIt" src="images/exotico/0-seychelles-2.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/0-seychelles-3.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/0-seychelles-4.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/0-seychelles-5.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/0-seychelles-6.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/0-seychelles-7.jpg" alt="Imagen camarote">
+                    <img class="zoomIt" src="<?php echo Imagen::cargaImagen("5seychelles1", "Descriptivo"); ?>"
+					alt="Imagen camarote">
                 </div>
 
                 <div class="precio">

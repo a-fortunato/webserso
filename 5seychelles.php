@@ -8,7 +8,7 @@
 	        <h2>Hotel Reef Holiday * *</h2>
 	  <h3>Islas Seychelles</h3>
 	  
-	  <img src="images/exotico/0-seychelles-1.jpg" alt="Imagen hotel"> 
+	  <img src="<?php echo Imagen::cargaImagen("5seychelles1", "Portada"); ?>" alt="Imagen hotel"> 
 	  <ul>
 	    <li>9 días</li>
 	    <li>Salida desde Granada</li>

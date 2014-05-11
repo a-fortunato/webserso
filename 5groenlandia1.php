@@ -9,7 +9,7 @@
             <h1>La Magia de Ilulissat</h1>
             <h3>Groenlandia</h3>
 
-            <img src="images/exotico/1-groenlandia-1.jpg" alt="Imagen hotel"> 
+            <img src="<?php echo Imagen::cargaImagen("5groenlandia1", "BajoTitulo"); ?>" alt="Imagen hotel"> 
 
             <div class="descripcion">
                 <ul>
@@ -34,12 +34,8 @@
 
 
                 <div>
-                    <img class="zoomIt" src="images/exotico/1-groenlandia-2.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/1-groenlandia-3.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/1-groenlandia-4.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/1-groenlandia-5.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/1-groenlandia-6.jpg" alt="Imagen camarote">
-                    <img class="zoomIt" src="images/exotico/1-groenlandia-7.jpg" alt="Imagen camarote">
+                    <img class="zoomIt" src="<?php echo Imagen::cargaImagen("5groenlandia1", "Descriptivo"); ?>"
+					alt="Imagen camarote">
                 </div>
 
                 <div class="precio">
