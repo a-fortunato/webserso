@@ -13,8 +13,8 @@
             <ul>
                 <li>
                     <h3>Mapa del trayecto</h3> <img class="zoomIt"
-					src="<?php echo Imagen::cargaImagen("1mediterraneo1", "BajoTitulo"); ?>"
-                    alt="Imagen crucero">
+                                                    src="<?php echo Imagen::cargaImagen("1mediterraneo1", "BajoTitulo"); ?>"
+                                                    alt="Imagen crucero">
                 </li>
                 <li>
                     <h3>Itinerario del viaje</h3> <img
@@ -110,9 +110,9 @@
 
 
             <div>
-				<img class="zoomIt"
-                    src="<?php echo Imagen::cargaImagen("1mediterraneo1", "Descriptivo"); ?>"
-					alt="Imagen camarote">
+                <img class="zoomIt"
+                     src="<?php echo Imagen::cargaImagen("1mediterraneo1", "Descriptivo"); ?>"
+                     alt="Imagen camarote">
             </div>
             <div class="precio">
                 <h1>450€</h1>

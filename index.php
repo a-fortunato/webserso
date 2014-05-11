@@ -1,6 +1,6 @@
 <!DOCTYPE HTML> 
 <html>
-	<?php include_once 'claseImagen.php';?>
+    <?php include_once 'claseImagen.php'; ?>
     <head>
         <meta charset="UTF-8">
         <title>Viajes La Edad Dorada</title>
@@ -12,13 +12,13 @@
     </head>
     <body> 
         <div id="background">
-            <?php			
-			include_once 'header.php';
+            <?php
+            include_once 'header.php';
 
             if (isset($_GET["p"])) {
                 /* @var $_GET type */
                 $p = $_GET["p"];
-				include  $p . '.php';
+                include $p . '.php';
             } else {
                 include 'principal.php';
             }

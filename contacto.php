@@ -1,5 +1,5 @@
 <div id="formulario">
-    <form id="contacto" name="contacto"  action='send.php' method='POST' onsubmit="return Validacion()">
+    <form id="contacto" name="contacto"  action="send.php" method="POST" onsubmit="return Validacion()">
         <!--si el evento onsubmit devuelve el valor true, el formulario se envía como lo haría normalmente-------->
         <div class="basicos">
             <ul>
