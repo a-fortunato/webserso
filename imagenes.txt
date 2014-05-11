@@ -1,0 +1,24 @@
+Destino: 2baleares
+Icono: 'ofertas/3.jpg'
+Oferta: 1adriatico1
+IconoOferta:
+Portada:
+BajoTitulo:
+Descriptivo:
+Descritptivo:
+
+Destino: 1balticas
+Icono:
+Oferta: 1balticas1
+IconoOferta:
+Portada:
+BajoTitulo:
+Descriptivo:
+Descritptivo:
+
+Oferta: 1balticas2
+IconoOferta:
+Portada:
+BajoTitulo:
+Descriptivo:
+Descritptivo:

@@ -1,5 +1,6 @@
 <!DOCTYPE HTML> 
 <html>
+	<?php include_once 'claseImagen.php';?>
     <head>
         <meta charset="UTF-8">
         <title>Viajes La Edad Dorada</title>
@@ -12,7 +13,11 @@
     <body> 
         <div id="background">
             <?php
-            include_once 'header.php';
+            //$img = new Imagen();
+			//$img->cargaImagen(...); // ó...
+			//Imagen::cargaImagen(...);
+			
+			include_once 'header.php';
 
             if (isset($_GET["p"])) {
                 /* @var $_GET type */
