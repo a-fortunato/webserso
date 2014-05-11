@@ -8,9 +8,9 @@
 	        <h2>Crucero Grand Holiday</h2>
 	        <h3>Barcelona, Marsella, Savona, Ajaccio, Barcelona</h3>
 	        <img class="zoomIt"
-	             src="images/mediterraneo/cruc1/grand-holiday.png"
+	             src="<?php echo Imagen::cargaImagen("1mediterraneo1", "Mapa"); ?>"
 	             alt="Imagen crucero"> <img
-	             src="images/mediterraneo/cruc1/cruc1.jpg" alt="LOGOcrucero">
+	             src="<?php echo Imagen::cargaImagen("1mediterraneo1", "Portada"); ?>" alt="LOGOcrucero">
 	        <ul>
 	            <li>5 días y 4 noches</li>
 	            <li>Salida desde Barcelona</li>
@@ -30,9 +30,9 @@
 	        <h2>Crucero Norwegian Jade</h2>
 	        <h3>Crucero Adriático, Grecia Y Turquía</h3>
 	        <img class="zoomIt"
-	             src="images/mediterraneo/cruc2/cruc1_mapaPeq.jpg"
+	             src="<?php echo Imagen::cargaImagen("1mediterraneo2", "Mapa"); ?>"
 	             alt="Imagen crucero"> <img
-	             src="images/mediterraneo/cruc2/Norwegian-Jade.jpg"
+	             src="<?php echo Imagen::cargaImagen("1mediterraneo2", "Portada"); ?>"
 	             alt="Modelo crucero 2">
 	        <p>
 	        <ul>

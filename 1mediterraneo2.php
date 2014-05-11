@@ -13,8 +13,8 @@
             <ul>
                 <li>
                     <h3>Mapa del trayecto</h3> <img class="zoomIt"
-                                                    src="images/mediterraneo/cruc2/cruc1_mapa.jpg"
-                                                    alt="Imagen crucero">
+                        src="<?php echo Imagen::cargaImagen("1mediterraneo2", "BajoTitulo"); ?>"
+                        alt="Imagen crucero">
                 </li>
                 <li>
                     <h3>Itinerario del viaje</h3> <img
@@ -195,20 +195,11 @@
 
             </div>
 
-            <ul>
-                <li><img class="zoomIt"
-                         src="images/mediterraneo/cruc2/cam1.jpg" alt="Imagen camarote">
-                </li>
-                <li><img class="zoomIt"
-                         src="images/mediterraneo/cruc2/cam2.jpg" alt="Imagen camarote">
-                </li>
-                <li><img class="zoomIt"
-                         src="images/mediterraneo/cruc2/cam3.jpg" alt="Imagen camarote">
-                </li>
-                <li><img class="zoomIt"
-                         src="images/mediterraneo/cruc2/cam4.jpg" alt="Imagen camarote">
-                </li>
-            </ul>
+            <div>
+				<img class="zoomIt"
+                    src="<?php echo Imagen::cargaImagen("1mediterraneo2", "Descriptivo"); ?>"
+					alt="Imagen camarote">
+            </div>
             <div class="precio">
                 <h1>800€</h1>
             </div>

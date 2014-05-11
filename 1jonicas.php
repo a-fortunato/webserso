@@ -5,9 +5,9 @@
 			<h3>El Pireo Atenas, Mykonos, Kusadasi, Patmos, Rodas,
 				Heraklion, Santorini</h3>
 	
-			<img class="zoomIt" src="images/jonicas/cruc1/cruc1_mapaPeq.jpg"
+			<img class="zoomIt" src="<?php echo Imagen::cargaImagen("1jonicas1", "Mapa"); ?>"
 				alt="Imagen crucero"> <img
-				src="images/jonicas/cruc1/louis-olympia.jpg" alt="LOGOcrucero">
+				src="<?php echo Imagen::cargaImagen("1jonicas1", "Portada"); ?>" alt="LOGOcrucero">
 	
 			<ul>
 				<li>5 días y 4 noches</li>

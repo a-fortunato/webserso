@@ -39,7 +39,6 @@
                         <div class="ventajas">
                             <a href="./?p=ventajasdelimserso"><img src="images/ventajas3.png" alt="Imagen ventajas viajar con Imserso"></a>
                         </div>
-                                        <!--<div><p> <progress>trabajando...</progress> </p></div>--->
                     </div>
                 </div>
             </li>

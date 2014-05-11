@@ -14,7 +14,7 @@
 				<ul>
 					<li>
 						<h3>Mapa del trayecto</h3> <img class="zoomIt"
-						src="images/jonicas/cruc1/cruc1_mapa.jpg" alt="Imagen crucero">
+						src="<?php echo Imagen::cargaImagen("1jonicas1", "BajoTitulo"); ?>" alt="Imagen crucero">
 					</li>
 					<li>
 						<h3>Itinerario del viaje</h3> <img
@@ -136,29 +136,10 @@
 				</div>
 
 
-				<ul>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/cam1.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/cam2.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/cam3.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/cam4.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/1.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/2.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/3.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/4.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/5.jpg"
-						alt="Imagen camarote"></li>
-					<li><img class="zoomIt" src="images/jonicas/cruc1/6.jpg"
-						alt="Imagen camarote"></li>
-
-				</ul>
+				<div><img class="zoomIt"
+					src="<?php echo Imagen::cargaImagen("1jonicas1", "Descriptivo"); ?>"
+						alt="Imagen camarote">
+				</div>
 				<div class="precio">
 					<h1>500€</h1>
 				</div>

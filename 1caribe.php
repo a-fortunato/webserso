@@ -4,9 +4,9 @@
 			<h2>Crucero Allure of the Seas</h2>
 			<h3>Fort Lauderdale, Nassau, Charlotte Amalie, Philipsburg</h3>
 
-			<img class="zoomIt" src="images/caribe/cruc1/cruc1_mapaPeq.jpg"
+			<img class="zoomIt" src="<?php echo Imagen::cargaImagen("1caribe1", "Mapa"); ?>"
 				alt="Imagen crucero"> <img
-				src="images/caribe/cruc1/allure-of-the-seas.jpg" alt="LOGOcrucero">
+				src="<?php echo Imagen::cargaImagen("1caribe1", "Portada"); ?>" alt="LOGOcrucero">
 
 			<ul>
 				<li>8 días y 7 noches</li>

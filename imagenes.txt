@@ -1,24 +1,231 @@
-Destino: 2baleares
-Icono: 'ofertas/3.jpg'
+Destino: 1adriatico
+Icono: 
 Oferta: 1adriatico1
-IconoOferta:
-Portada:
-BajoTitulo:
-Descriptivo:
-Descritptivo:
+Mapa: adriatico/cruc1/cruc1_mapaPeq.jpg
+Portada: adriatico/cruc1/msc-fantasia.jpg
+BajoTitulo: adriatico/cruc1/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_adria_1.jpg
+Descriptivo: adriatico/cruc1/cam1.jpg
+Descriptivo: adriatico/cruc1/cam2.jpg
+Descriptivo: adriatico/cruc1/cam3.jpg
+Descriptivo: adriatico/cruc1/cam4.jpg
+Descriptivo: adriatico/cruc1/1.jpg
+Descriptivo: adriatico/cruc1/2.jpg
+Descriptivo: adriatico/cruc1/3.jpg
+Descriptivo: adriatico/cruc1/4.jpg
+Descriptivo: adriatico/cruc1/5.jpg
+Descriptivo: adriatico/cruc1/6.jpg
 
 Destino: 1balticas
-Icono:
+Icono: 
 Oferta: 1balticas1
-IconoOferta:
-Portada:
-BajoTitulo:
-Descriptivo:
-Descritptivo:
-
+Mapa: balticas/cruc1/cruc1_mapaPeq.jpg
+Portada: balticas/cruc1/Buque_Empress.jpg
+BajoTitulo: balticas/cruc1/cruc1_mapa.jpg
+Descriptivo: balticas/cruc1/cam1.jpg
+Descriptivo: balticas/cruc1/cam2.jpg
+Descriptivo: balticas/cruc1/cam3.jpg
 Oferta: 1balticas2
-IconoOferta:
-Portada:
-BajoTitulo:
+Mapa: balticas/cruc2/cruc1_mapaPeq.jpg
+Portada: balticas/cruc2/norwegian-star.jpg
+BajoTitulo: balticas/cruc2/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_balt_1.jpg
+Descriptivo: balticas/cruc2/cam1.jpg
+Descriptivo: balticas/cruc2/cam2.jpg
+Descriptivo: balticas/cruc2/cam3.jpg
+Descriptivo: balticas/cruc2/cam4.jpg
+Descriptivo: balticas/cruc2/norwegian-star2.jpg
+Descriptivo: balticas/cruc2/norwegian-star3.jpg
+Descriptivo: balticas/cruc2/norwegian-star4.jpg
+Descriptivo: balticas/cruc2/norwegian-star5.jpg
+Descriptivo: balticas/cruc2/norwegian-star6.jpg
+Descriptivo: balticas/cruc2/norwegian-star7.jpg
+Descriptivo: balticas/cruc2/norwegian-star8.jpg
+Descriptivo: balticas/cruc2/norwegian-star9.jpg
+
+Destino: 1caribe
+Icono: ofertas/1.jpg
+Oferta: 1caribe1
+Mapa: caribe/cruc1/cruc1_mapaPeq.jpg
+Portada: caribe/cruc1/allure-of-the-seas.jpg
+BajoTitulo: caribe/cruc1/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_caribe_1.jpg
+Descriptivo: caribe/cruc1/cam1.jpg
+Descriptivo: caribe/cruc1/cam2.jpg
+Descriptivo: caribe/cruc1/cam3.jpg
+Descriptivo: caribe/cruc1/cam4.jpg
+Descriptivo: caribe/cruc1/1.jpg
+Descriptivo: caribe/cruc1/2.jpg
+Descriptivo: caribe/cruc1/3.jpg
+Descriptivo: caribe/cruc1/4.jpg
+Descriptivo: caribe/cruc1/6.jpg
+Descriptivo: caribe/cruc1/7.jpg
+Descriptivo: caribe/cruc1/8.jpg
+
+Destino: 1jonicas
+Icono: 
+Oferta: 1jonicas1
+Mapa: jonicas/cruc1/cruc1_mapaPeq.jpg
+Portada: jonicas/cruc1/louis-olympia.jpg
+BajoTitulo: jonicas/cruc1/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_jon_1.jpg
+Descriptivo: jonicas/cruc1/cam1.jpg
+Descriptivo: jonicas/cruc1/cam2.jpg
+Descriptivo: jonicas/cruc1/cam3.jpg
+Descriptivo: jonicas/cruc1/cam4.jpg
+Descriptivo: jonicas/cruc1/1.jpg
+Descriptivo: jonicas/cruc1/2.jpg
+Descriptivo: jonicas/cruc1/3.jpg
+Descriptivo: jonicas/cruc1/4.jpg
+Descriptivo: jonicas/cruc1/5.jpg
+Descriptivo: jonicas/cruc1/6.jpg
+
+Destino: 1mediterraneo
+Icono: 
+Oferta: 1mediterraneo1
+Mapa: mediterraneo/cruc1/grand-holiday.png
+Portada: mediterraneo/cruc1/cruc1.jpg
+BajoTitulo: mediterraneo/cruc1/cruc1_mapa.jpg
+Descriptivo: mediterraneo/cruc1/cam1.jpg
+Descriptivo: mediterraneo/cruc1/cam2.jpg
+Descriptivo: mediterraneo/cruc1/cam3.jpg
+Oferta: 1mediterraneo2
+Mapa: mediterraneo/cruc2/cruc1_mapaPeq.jpg
+Portada: mediterraneo/cruc2/Norwegian-Jade.jpg
+BajoTitulo: mediterraneo/cruc2/cruc1_mapa.jpg
+Sidebar: im_sidebar/cruc_med_1.jpg
+Descriptivo: mediterraneo/cruc2/cam1.jpg
+Descriptivo: mediterraneo/cruc2/cam2.jpg
+Descriptivo: mediterraneo/cruc2/cam3.jpg
+Descriptivo: mediterraneo/cruc2/cam4.jpg
+
+Destino: 2baleares
+Icono: ofertas/3.jpg
+Oferta: 2baleares1
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 2blanca
+Icono: 
+Oferta: 2blanca1
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 2dorada
+Icono: 
+Oferta: 2dorada1
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo:  
+
+Destino: 2luz
+Icono: 
+Oferta: 2luz1
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 2sol
+Icono: ofertas/4.jpg
+Oferta: 2sol1
+Portada: 
+BajoTitulo: 
 Descriptivo:
 Descritptivo:
+Oferta: 2sol2
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 3andalucia
+Icono: ofertas/2.jpg
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 3madrid
+Icono:  
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 3romanico
+Icono: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 4benelux
+Icono: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 4londres
+Icono: 
+Oferta: 4londres1
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 4roma
+Icono: 
+Oferta: 4roma1
+IconoOferta: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 4viena
+Icono: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 5groenlandia
+Icono: 
+Oferta: 5groenlandia1
+IconoOferta: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo:  
+
+Destino: 5lesoto
+Icono: 
+Oferta: 5lesoto1
+IconoOferta: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 5mongolia
+Icono: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
+
+Destino: 5seychelles
+Icono: 
+Oferta: 5seychelles1
+IconoOferta: 
+Portada: 
+BajoTitulo: 
+Sidebar:
+Descriptivo: 
