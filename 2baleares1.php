@@ -6,7 +6,7 @@
             <h1>Apartaments Voralmar - Mas d'en Gran</h1>
             <h3>Cambrils, España</h3>
 
-            <img src="<?php echo Imagen::cargaImagen("2dorada1", "BajoTitulo"); ?>"
+            <img src="<?php echo Imagen::cargaImagen("2baleares1", "BajoTitulo"); ?>"
                  alt=" Imagen playa">
 
             <div class="descripcion">
@@ -55,7 +55,7 @@
             </div>
 
             <div>
-                <img class="zoomIt" src="<?php echo Imagen::cargaImagen("2dorada1", "Descriptivo"); ?>"
+                <img class="zoomIt" src="<?php echo Imagen::cargaImagen("2baleares1", "Descriptivo"); ?>"
                      alt="Imagen camarote"></div>
             <div class="precio">
                 <h1>600€</h1>
